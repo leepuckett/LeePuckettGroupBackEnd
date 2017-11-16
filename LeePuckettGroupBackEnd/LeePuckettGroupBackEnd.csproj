@@ -177,12 +177,36 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="pictures\diego.jpg" />
+    <Content Include="pictures\john.jpg" />
+    <Content Include="pictures\john.png" />
+    <Content Include="pictures\leepuckettgroup.jpg" />
+    <Content Include="pictures\logo1.png" />
+    <Content Include="pictures\logo2.png" />
+    <Content Include="pictures\logo3.png" />
+    <Content Include="pictures\mark1.jpg" />
+    <Content Include="pictures\mark2.jpg" />
+    <Content Include="pictures\morsecode.jpg" />
+    <Content Include="pictures\players.png" />
+    <Content Include="pictures\songlist.png" />
+    <Content Include="pictures\timwhalen.jpg" />
+    <Content Include="pictures\tincan.jpg" />
+    <Content Include="pictures\victrola.jpg" />
+    <Content Include="pictures\zack.jpg" />
+    <Content Include="pictures\zack.png" />
+    <Content Include="pictures\zack1.jpg" />
+    <Content Include="pictures\zack2.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="WebForm1.aspx" />
+    <Content Include="pictures\logo1.pdf" />
+    <Content Include="pictures\logo2.pdf" />
+    <Content Include="pictures\logo3.pdf" />
+    <Content Include="pictures\Puckett Group CD Insert.pdf" />
+    <Content Include="pictures\Puckett Jazz and Funk Band Brochure.pdf" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
