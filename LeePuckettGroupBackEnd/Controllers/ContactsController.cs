@@ -9,12 +9,14 @@ using System.Web.Mvc;
 using LeePuckettGroupBackEnd.DAL;
 using LeePuckettGroupBackEnd.Models;
 
+//////making use of the mvc framework (above)////
+
 namespace LeePuckettGroupBackEnd.Controllers
 {
     public class ContactsController : Controller
     {
         private DB db = new DB();
-
+        //////making use of the db database (above)////
         // GET: Contacts
         public ActionResult Index()
         {
@@ -126,3 +128,4 @@ namespace LeePuckettGroupBackEnd.Controllers
         }
     }
 }
+//////making use of the Entity framework (above)////
